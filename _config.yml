@@ -6,24 +6,26 @@
 # --- Required options --- #
 
 # Name of website
-title: Sams PCT 2021
+title: PCT 2021
 
 # Your name to show in the footer
 author: Sam Carter
 
 # --- List of links in the navigation bar --- #
 
+#Update The Nav Bar to include correct lighter pack link and other additions
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - My Gear List: "https://beautifuljekyll.com"
+    - Jump To Latest Post: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
+#Add a Logo
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
@@ -39,12 +41,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "SamuelPCarter@gmail.com"
+  github: SamuelPCarter
+  twitter: SamuelPCarter
+  #patreon: DeanAttali
+  youtube: c/SamuelPCarter
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
