@@ -19,7 +19,7 @@ navbar-links:
   Resources:
     - My Gear List: "https://beautifuljekyll.com"
     - Jump To Latest Post: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://samuelpcarter.github.io"
 
 # --- Logo --- #
 
@@ -44,7 +44,7 @@ social-network-links:
   email: "SamuelPCarter@gmail.com"
   github: SamuelPCarter
   twitter: SamuelPCarter
-  #patreon: DeanAttali
+  #patreon: SamuelPCarter
   youtube: c/SamuelPCarter
   linkedin: SamuelPatrickCarter
 
@@ -95,7 +95,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
