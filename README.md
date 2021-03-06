@@ -1,4 +1,4 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
+[![](https://i.imgur.com/2bNEJrJ.png)](https://samuelpcarter.github.io)
 
 # Samuel Carter's Homepage
 
@@ -24,7 +24,7 @@
 
 # Features
 
-Check out [*What's New?*](https://beautifuljekyll.com/updates/) to see the latest features.
+Check out [*What's New?*](https://samuelpcarter.github.io) to see the latest features.
 
 - **SIMPLE**: The primary goal of Beautiful Jekyll is to allow literally *anyone* to create a website in a few minutes.
 - **Modern**: Uses the latest best practices and technologies to achieve nearly perfect scores on Google Chrome's Audit.
