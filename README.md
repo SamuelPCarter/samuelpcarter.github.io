@@ -2,7 +2,7 @@
 
 # Samuel Carter's Homepage
 
-> By [Samuel Carter]https://samuelpcarter.github.io) &middot;
+> By [Samuel Carter]https://samuelpcarter.github.io);
 
 **If you enjoy this website, please consider [supporting me](https://samuelpcarter.github.io) in my future endeavours❤**
 
