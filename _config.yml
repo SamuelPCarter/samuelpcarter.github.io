@@ -31,6 +31,9 @@ avatar: "/assets/img/avatar-icon.jpg"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
+# By default, it will desplay all recent website changes
+future: true
+
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
