@@ -7,7 +7,7 @@ subtitle: Why you'd want to go on a date with me
 My name is Samuel Carter, but you can call me Sam. I have the following qualities:
 
 - Avid Rock climber
-- Unicycler Extraordinaire
+- Unicycler
 - Ethereum HODLer
 - Java and Solidity Programmer
 
