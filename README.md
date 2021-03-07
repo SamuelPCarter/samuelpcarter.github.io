@@ -2,16 +2,14 @@
 
 # Samuel Carter's Homepage
 
-> By [Samuel Carter](https://samuelpcarter.github.io)
-
 **If you enjoy this code, please consider checking out [My Website](https://samuelpcarter.github.io)❤**
 
 ## Table of contents
 
 - [About Me](#About-Me)
 - [What's On My Back](#What's-On-My-Back)
-- [Find Me](#build-your-website-in-3-steps)
-- [Homepage](#plans)
+- [Find Me](#Find-Me)
+- [Homepage](#Homepage)
 
 # About Me
 
@@ -34,18 +32,10 @@ Check out [*What's New?*](https://samuelpcarter.github.io) to see the latest fea
 
 - **[My Gear List](https://lighterpack.com/r/1jm6ok)**
 
-# Build your website in 3 steps
+# Find Me
 
 - Add more here
 
-# Plans
+# Homepage
 
 - Add more here
-
-# Add your own content
-
-- Add more here
-
-# Customizing parameters for each page
-
-**One last important thing**: In order to have your new pages use this template and not just be plain HTML pages, **you must add [YAML front matter](https://jekyllrb.com/docs/front-matter/) to the top of each page**:
