@@ -17,8 +17,8 @@ author: Sam Carter
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - What's on my back: "https://samuelpcarter.github.io/2020-03-07GearList.md"
-    - Find Me: "https://samuelpcarter.github.io/2021-02-27-CoonCreekCabinToWhiteWaterPreserve.md"
+    - What's on my back: "https://samuelpcarter.github.io/_posts/2020-03-07GearList.md"
+    - Find Me: "https://samuelpcarter.github.io/_posts/2021-02-27-CoonCreekCabinToWhiteWaterPreserve.md"
   Homepage: "https://samuelpcarter.github.io"
 
 # --- Logo --- #
