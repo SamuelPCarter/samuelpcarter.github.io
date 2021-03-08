@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who? What? Why?
 ---
 
-My name is Samuel Carter, but you can call me Sam. I am hiking the Pacific Crest Trail
+My name is Samuel Carter, but you can call me Sam. I am hiking the Pacific Crest Trail.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Hpibx6u" data-context="false" ><a href="//imgur.com/a/Hpibx6u"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-- From Carlsbad, CA
+- From [Carlsbad, CA](https://goo.gl/maps/HaoAvtF7Pv2VAFk68)
 - I had to leave my unicycle at home
 - Cyber Security student
 
