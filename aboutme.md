@@ -1,18 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Who? What? Why?
 ---
 
 My name is Samuel Carter, but you can call me Sam. I am hiking the Pacific Crest Trail.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Hpibx6u" data-context="false" ><a href="//imgur.com/a/Hpibx6u"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Selfie From Mile 246](/assets/img/FacePhoto.jpg)
 
-- From [Carlsbad, CA](https://goo.gl/maps/HaoAvtF7Pv2VAFk68)
-- I had to leave my unicycle at home
-- Cyber Security student
-
-What else do you need?
+- Hometown of [Carlsbad, CA](https://goo.gl/maps/HaoAvtF7Pv2VAFk68)
+- Cyber Security student on his semester off
+- I had to leave lsmy unicycle at home
 
 ### Contact Me
 
