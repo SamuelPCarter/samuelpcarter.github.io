@@ -9,7 +9,7 @@ My name is Samuel Carter, but you can call me Sam. I am hiking the Pacific Crest
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Hpibx6u" data-context="false" ><a href="//imgur.com/a/Hpibx6u"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 - From Carlsbad, CA
-- I had to leave my Unicycle at Home
+- I had to leave my unicycle at home
 - Cyber Security student
 
 What else do you need?
