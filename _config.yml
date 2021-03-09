@@ -19,8 +19,8 @@ navbar-links:
   Daily Blog Entries: "https://samuelpcarter.github.io/DailyBlogEntries/"
   PCT Info: "https://samuelpcarter.github.io/PCTOverview/"
   Gear:
-    - Sam's Gear: "https://samuelpcarter.github.io/Gearlist/"
-    - Sunstroke's Gear: "https://samuelpcarter.github.io/Gearlist/"
+    - Sam's Gear: "https://samuelpcarter.github.io/SamGearlist/"
+    - Sunstroke's Gear: "https://samuelpcarter.github.io/SunstrokeGearlist/"
   Photos: "https://samuelpcarter.github.io/PhotoGallery/"
   About Me: "aboutme"
 
