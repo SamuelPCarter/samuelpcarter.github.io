@@ -2,6 +2,10 @@
 layout: page
 title: Itinerary
 ---
+I'm planning to hike for about 4.6 months. You're welcome to come meet me on the trail and hike for a bit. Bring some good food while you're at it.
+
+All credit is due Craig Giffin for his fabulous PCT trail [planner](https://pctplanner.com/). I would have been hopelessly dateless without it. All dates are subject to change but, oh what the heck, here's the schedule. 
+
 Currently we have completed 246 miles on the Pacific Crest Trail
 
 | Resupply Location | Days | Miles | Elevation Gain-Ft. | Scheduled Arrival | Actual IN | Actual OUT |
