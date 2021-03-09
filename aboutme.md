@@ -9,7 +9,7 @@ My name is Samuel Carter, but you can call me Sam. I am hiking the Pacific Crest
 
 - Hometown of [Carlsbad, CA](https://goo.gl/maps/HaoAvtF7Pv2VAFk68)
 - Cyber Security student on his semester off
-- I had to leave lsmy unicycle at home
+- I had to leave my unicycle at home
 
 ### Contact Me
 
