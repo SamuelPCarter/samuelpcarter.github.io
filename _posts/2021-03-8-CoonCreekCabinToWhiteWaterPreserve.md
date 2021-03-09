@@ -2,9 +2,9 @@
 layout: post
 title: Miles 246-218
 subtitle: Coon Creek Cabin to White Water Nature Preserve
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Background.png
 thumbnail-img: /assets/img/WhiteWaterPreserve.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Background.png
 tags: [Trail, Weight]
 readtime: true
 ---
