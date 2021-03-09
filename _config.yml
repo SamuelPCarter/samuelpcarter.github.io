@@ -18,11 +18,11 @@ navbar-links:
   Home: "https://samuelpcarter.github.io/"
   Daily Blog Entries: "https://samuelpcarter.github.io/DailyBlogEntries/"
   PCT Info: "https://samuelpcarter.github.io/PCTOverview/"
-  About Me: "aboutme"
   Gear:
-    - What I am carrying: "https://samuelpcarter.github.io/Gearlist/"
-    - What Sunstroke is carrying: "https://samuelpcarter.github.io/Gearlist/"
-  Photos: "https://samuelpcarter.github.io/photogallery/"
+    - Sam's Gear: "https://samuelpcarter.github.io/Gearlist/"
+    - Sunstroke's Gear: "https://samuelpcarter.github.io/Gearlist/"
+  Photos: "https://samuelpcarter.github.io/PhotoGallery/"
+  About Me: "aboutme"
 
 # --- Logo --- #
 

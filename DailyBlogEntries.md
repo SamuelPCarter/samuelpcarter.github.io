@@ -3,5 +3,8 @@ layout: page
 title: Daily Blog Entries
 ---
 
-##Pre-Trail
-- [Gearlist](https://samuelpcarter.github.io/Gearlist/)
+**Pre-Trail**
+- [Itinerary](https://samuelpcarter.github.io/Gearlist/)
+
+**California**
+- [Day 1: Settling In](https://samuelpcarter.github.io/2021-03-08-CoonCreekCabinToWhiteWaterPreserve/)
