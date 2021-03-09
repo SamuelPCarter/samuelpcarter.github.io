@@ -1,10 +1,8 @@
 ---
-layout: post
-thumbnail-img: /assets/img/LighterPackFinal.png
-share-img: /assets/img/BGTheOne.png
-tags: [Gear, Weight]
-readtime: false
+layout: page
+title: Gearlist
 ---
+
 This includes all the gear I am taking on Pacific Crest Trail. Minus food, fuel, and water.
 Some condiderations for extraneous sections include:
 - Microspikes for the Sierra mountains
