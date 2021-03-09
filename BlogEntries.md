@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daily Blog Entries
+title: Blog Entries
 ---
 
 **Pre-Trail**
