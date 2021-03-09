@@ -15,11 +15,14 @@ author: Sam Carter
 
 #Update The Nav Bar to include correct lighter pack link and other additions
 navbar-links:
+  Home: "https://samuelpcarter.github.io"
+  Daily Blog Entries: "https://samuelpcarter.github.io/2021-03-08-CoonCreekCabinToWhiteWaterPreserve/"
+  PCT Info: "https://samuelpcarter.github.io/PCTInfo/"
   About Me: "aboutme"
-  Resources:
-    - What's on my back: "https://samuelpcarter.github.io/2021-02-28-GearList/"
-    - Find Me: "https://samuelpcarter.github.io/2021-03-08-CoonCreekCabinToWhiteWaterPreserve/"
-  Homepage: "https://samuelpcarter.github.io"
+  Gear:
+    - What I am carrying: "https://samuelpcarter.github.io/2021-02-28-GearList/"
+    - What Sunstroke is carrying: "https://samuelpcarter.github.io/2021-02-28-GearList/"
+  Photos: "https://samuelpcarter.github.io/photogallery/"
 
 # --- Logo --- #
 
