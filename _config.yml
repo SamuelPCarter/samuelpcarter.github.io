@@ -16,8 +16,8 @@ author: Sam Carter
 #Update The Nav Bar to include correct lighter pack link and other additions
 navbar-links:
   Home: "https://samuelpcarter.github.io/"
-  Daily Blog Entries: "https://samuelpcarter.github.io/BlogEntries/"
-  PCT Info: "https://samuelpcarter.github.io/PCTOverview/"
+  PCT Journal: "https://samuelpcarter.github.io/BlogEntries/"
+  Trail Info: "https://samuelpcarter.github.io/PCTOverview/"
   Gear:
     - Sam's Gear: "https://samuelpcarter.github.io/SamGearlist/"
     - Sunstroke's Gear: "https://samuelpcarter.github.io/SunstrokeGearlist/"
