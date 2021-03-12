@@ -5,7 +5,7 @@ title: About me
 
 My name is Samuel Carter, but you can call me Sam. I am hiking the Pacific Crest Trail.
 
-![Selfie From Mile 246](/assets/img/Selfie2.jpg)
+![Selfie From Mile 246](/assets/img/FacePhoto.jpg)
 
 - Hometown of [Carlsbad, CA](https://goo.gl/maps/HaoAvtF7Pv2VAFk68)
 - Cyber Security student on his semester off
