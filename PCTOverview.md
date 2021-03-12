@@ -2,7 +2,9 @@
 layout: page
 title: Pacific Crest Trail Overview
 ---
+<!---
 ![Selfie On Trail](/assets/img/PCTMapTall.jpg){: style="float: left"}
+-->
 
 <img src="/assets/img/PCTMapTall.jpg" align="left" /><p>The Pacific Crest Trail AKA the PCT spans 2650 between the boarders of Mexico and Canada. This National Scenic Trail was established in 1968 yet was only completed in 1993.Along the trail lies 27 National Forests and 7 National Parks. Forester Pass at 13,153 feet is the highest point on the Pacifc Crest Trail.
 
